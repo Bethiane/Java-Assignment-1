@@ -1,4 +1,4 @@
-# Java Assignment
+# Java Assignment-1 ReadMe
 
 This repository contains Java programs developed as part of an assignment for various exercises. The programs are structured to demonstrate fundamental programming concepts and algorithms.
 
@@ -30,13 +30,13 @@ To run the programs in this repository, follow these instructions:
    Open your terminal or command prompt and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/java-assignment.git
+   git clone https://github.com/yourusername/java-assignment-1.git
 
  2. **Navigate to the Project Directory**:
     Change to the repository directory
 
     ```bash
-    cd java-assignment
+    cd java-assignment-1
 
  3. **Open the Project in NetBeans**:
     - Launch NetBeans.
