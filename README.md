@@ -30,7 +30,7 @@ To run the programs in this repository, follow these instructions:
    Open your terminal or command prompt and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/java-assignment-1.git
+   git clone https://github.com/Bethiane/Java-Assignment-1.git
 
  2. **Navigate to the Project Directory**:
     Change to the repository directory
