@@ -45,5 +45,5 @@ To run the programs in this repository, follow these instructions:
    
   4. **Usage**:
      - After opening the project in NetBeans, you can run any of the Java programs:
-     - Right-click on the desired Java file in the src/main/java/com/mycompany/exercises1/ directory.
+     - Right-click on the desired Java file in the **src/main/java/com/mycompany/exercises1/** directory.
      - Select Run File to execute the program.
