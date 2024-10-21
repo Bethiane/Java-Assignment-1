@@ -36,7 +36,7 @@ To run the programs in this repository, follow these instructions:
     Change to the repository directory
 
     ```bash
-    cd java-assignment-1
+    cd Java-Assignment-1
 
  3. **Open the Project in NetBeans**:
     - Launch NetBeans.
